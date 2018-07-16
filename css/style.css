@@ -6,7 +6,8 @@ body {
 
 #title-section {
   background-color:green;
-  border-style: groove;
+  position: static;
+  border: 3px solid #73AD21;
 }
 .info-section {
   background-color:red;
