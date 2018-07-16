@@ -6,6 +6,7 @@ body {
 
 #title-section {
   background-color:green;
+  border-style: groove;
 }
 .info-section {
   background-color:red;
